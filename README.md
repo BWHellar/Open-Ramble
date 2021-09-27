@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Purpose
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GitHub Actions with Jest testing.
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+In the effort to expand on CICD implementation on primary projects the goal of this project is to run multiple Jest test through Github Actions. This will help better strengthen testing framework knowledge.
 
 ### `npm start`
 
